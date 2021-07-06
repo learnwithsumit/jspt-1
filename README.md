@@ -7,7 +7,7 @@
 <!-- PROJECT Title -->
 <br />
 <p align="center">
-  <h3 align="center"><a href="https://github.com/learnwithsumit/jspt-1">8 JavaScript Pro Tips - Learn with Sumit</a></h3>
+  <h3 align="center"><a href="https://github.com/learnwithsumit/jspt-1">Part 1 - JavaScript Pro Tips - Learn with Sumit</a></h3>
 
 [![View on Youtube](http://img.youtube.com/vi/cdv4kM8MwsY/0.jpg)](https://youtu.be/cdv4kM8MwsY)
 
